@@ -1,4 +1,4 @@
-# Telco-Customer-Churn-
+# Telco-Customer-Churn-(Random Forest and Decision Trees)
 The goal of this project is to build a predictive model for customer churn in the telecommunications industry. Customer churn refers to the phenomenon where customers stop using a company's services. 
 In this case, the company wants to predict which customers are likely to churn so that they can take proactive measures to retain those customers.
 
